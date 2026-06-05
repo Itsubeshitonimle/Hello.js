@@ -83,3 +83,5 @@ boys = 6
 girls = 0
 totalnumberofchildren = boys + girls
 console.log(totalnumberofchildren);
+
+  
